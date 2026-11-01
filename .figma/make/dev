@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+set -eu
+
+cd branddna
+exec pnpm exec vite --port "$PORT" --host 0.0.0.0 --strictPort

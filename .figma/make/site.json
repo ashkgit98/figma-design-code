@@ -1,0 +1,10 @@
+{
+  "description": "Provides setup and verification workflows for imported Figma projects, helping teams prepare deployment and preview configurations with confidence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

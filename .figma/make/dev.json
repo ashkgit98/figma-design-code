@@ -1,0 +1,6 @@
+{
+  // Reinstall when the BrandDNA app's dependency metadata changes.
+  "installOn": ["branddna/package.json", "branddna/pnpm-lock.yaml"],
+  // Vite does not hot-reload its own config.
+  "restartOn": ["branddna/vite.config.ts"]
+}
